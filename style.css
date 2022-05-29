@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+font-family: sans-serif;
+background-image: linear-gradient( rgb(0, 0, 0), white, red);
+}
+
+header {
+background-image: linear-gradient( lightgreen, white, red);
+padding: 40px 0px 40px 25px;
+}
+
+.link-header {
+background-color: #9FEE00;
+padding: 10px 15px 10px 15px;
+font-size: 36px;
+text-decoration: none;
+border-radius: 20px;
+color: red;
+}
+
+nav {
+padding: 35px 40px 0px 40px;
+}
